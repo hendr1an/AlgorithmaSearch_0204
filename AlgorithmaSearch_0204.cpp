@@ -62,3 +62,8 @@ void LinearSearch()
 
     } while ((ch == 'y') || (ch == 'Y'));
 }
+
+void display()
+{
+    cout << "array elements are: ";
+}
